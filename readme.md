@@ -1,0 +1,1 @@
+Example: visit http://xx.verych.ru/ and look at console
