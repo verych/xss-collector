@@ -1,0 +1,32 @@
+{
+  "name": "xss-collector",
+  "version": "1.0.0",
+  "description": "Gets different user information from Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verych/xss-collector.git"
+  },
+  "keywords": [
+    "Javascript",
+    "XSS",
+    "security"
+  ],
+  "author": "Roman Veremyov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verych/xss-collector/issues"
+  },
+  "homepage": "https://github.com/verych/xss-collector#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "ua-parser": "^0.3.5",
+    "webpack": "^4.0.1"
+  },
+  "dependencies": {
+    "webpack-cli": "^2.0.9"
+  }
+}
